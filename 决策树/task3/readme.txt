@@ -1,0 +1,8 @@
+一共6个gender_submission.csv
+从1-6分别是
+只训练了三个必选项的模型
+添加了Fare的影响的模型
+添加了SibSp的影响的模型
+添加了Parch的影响的模型
+添加了SibSp和Parch共同影响的模型
+添加了Parch和Fare共同影响的模型
